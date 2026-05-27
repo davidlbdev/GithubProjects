@@ -25,7 +25,7 @@ class TaskPool:
         task3 = Task("Develop todo-test.py")
         task4 = Task("Create update_index.sh")
         task5 = Task("Create Dockerfile")
-        task6 = Task("Create GitHub Actions workflow")
+        task6 = Task("Create and test GitHub Actions workflow")
 
         task1.mark_completed()
         task2.mark_completed()
